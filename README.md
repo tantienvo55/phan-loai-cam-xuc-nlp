@@ -1,7 +1,7 @@
 # Xử Lý Ngôn Ngữ Tự Nhiên - Phân Tích Cảm Xúc (Sentiment Analysis)
 
 Bài lab Xử lý ngôn ngữ tự nhiên: xây dựng và so sánh hai mô hình học sâu dựa trên
-mạng nơ-ron hồi quy (RNN) — **GRU** và **Bidirectional LSTM (BiLSTM)** — cho bài
+mạng nơ-ron hồi quy (RNN) - **GRU** và **Bidirectional LSTM (BiLSTM)** - cho bài
 toán phân loại cảm xúc nhị phân (tích cực / tiêu cực) trên bộ dữ liệu **Yelp
 Polarity**.
 
