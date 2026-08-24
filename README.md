@@ -45,7 +45,7 @@ trên Kaggle hoặc Google Colab) để tăng tốc độ huấn luyện.
 
 ## Cách chạy
 
-1. Mở file `Xử_lý_ngôn_ngữ_tự_nhiên.ipynb` bằng Jupyter Notebook, Google Colab
+1. Mở file `Phân_loại_cảm_xúc_văn_bản.ipynb` bằng Jupyter Notebook, Google Colab
    hoặc Kaggle Notebook.
 2. Chạy tuần tự từng cell từ trên xuống dưới:
    - Cell tải và tiền xử lý dữ liệu.
