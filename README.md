@@ -58,7 +58,7 @@ trên Kaggle hoặc Google Colab) để tăng tốc độ huấn luyện.
 
 ```
 .
-├── Xử_lý_ngôn_ngữ_tự_nhiên.ipynb   # Notebook chính
+├── Phân_loại_cảm_xúc_văn_bản.ipynb   # Notebook chính
 └── README.md
 ```
 
